@@ -1,0 +1,42 @@
+PUT
+======
+{
+  "id": 1,
+  "firstName": "Mike",
+  "middleName": null,
+  "lastName": "Rotch",
+  "addressId": 1,
+  "emailId": "andrew@abc.com",
+  "dateOfBirth": "1980-01-01T00:00:00",
+  "phoneNumber": 12345,
+  "employeeAddresses": [
+    {
+      "id": 1,
+      "employeeId": 1,
+      "street": "672  Fidler Drive",
+      "area": "San Antonio",
+      "city": "San Antonio",
+      "state": "Texas"
+    }
+  ]
+}
+
+POST
+=====
+{
+  "firstName": "Mike",
+  "middleName": null,
+  "lastName": "Rotch",
+  "emailId": "mroach@nodomain.com",
+  "dateOfBirth": "1980-01-01T00:00:00",
+  "phoneNumber": 12345,
+  "employeeAddresses": [
+    {
+      "employeeId": 1,
+      "street": "3016  Hamill Avenue",
+      "area": "Hamill Avenue",
+      "city": "San Diego",
+      "state": "California"
+    }
+  ]
+}

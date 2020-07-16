@@ -1,0 +1,4 @@
+D:\Microservices\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.API.csprojAssemblyReference.cache
+D:\Microservices\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.API.AssemblyInfoInputs.cache
+D:\Microservices\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.API.AssemblyInfo.cs
+D:\Microservices\Employee\Employee\obj\Debug\netcoreapp2.0\Employee.API.csproj.CoreCompileInputs.cache
